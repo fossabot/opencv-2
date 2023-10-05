@@ -1,4 +1,6 @@
 ## OpenCV: Open Source Computer Vision Library
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKishan6%2Fopencv.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FKishan6%2Fopencv?ref=badge_shield)
+
 
 ### Resources
 
@@ -22,3 +24,7 @@ Please read the [contribution guidelines](https://github.com/opencv/opencv/wiki/
 * Include tests and documentation;
 * Clean up "oops" commits before submitting;
 * Follow the [coding style guide](https://github.com/opencv/opencv/wiki/Coding_Style_Guide).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FKishan6%2Fopencv.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FKishan6%2Fopencv?ref=badge_large)
